@@ -1,3 +1,4 @@
+
 # ObjectTracker - CAMshift
 
 ##### Track multiple (10s - 100s) of objects in a video or a camera stream and define areas where entry of an object is to be monitored.
@@ -31,7 +32,8 @@ Then the Meanshift part of the algorithm will try to find the area with the high
 
 If you run this file, for some example movie you will then end up with this rather shaky tracking (for explanations of the track and improvements, go look at file ObjectTrack_Haar_classifier):
 
-![OBJECTTRACKER_allobjects](http://i.imgur.com/F3T5GKu.gifv)
+## [KLICK FOR TRACK VIDEO](http://i.imgur.com/F3T5GKu.gifv "video")
+
 
 ## What it does:
 Creates data output in the form of images and also saves the raw data in .txt files.
