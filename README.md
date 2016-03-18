@@ -30,9 +30,12 @@ Then the Meanshift part of the algorithm will try to find the area with the high
 ![OBJECTTRACKER_allobjects](http://i.imgur.com/ESgW9zs.jpg)
 
 
-If you run this file, for some example movie you will then end up with this rather shaky tracking (for explanations of the track and improvements, go look at file ObjectTrack_Haar_classifier):
+If you run this file, for some example movie you will then end up with this rather shaky tracking (for explanations of the track and improvements, go look at file ObjectTrack_Haar_classifier)
 
-## [KLICK FOR TRACK VIDEO](http://i.imgur.com/F3T5GKu.gifv "video")
+
+![Link here](http://i.imgur.com/F3T5GKu.gif)
+
+
 
 
 ## What it does:
